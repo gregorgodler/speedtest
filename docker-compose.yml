@@ -1,0 +1,7 @@
+services:
+   speedtest:
+     image: adolfintel/speedtest
+     restart: always
+     container_name: speedtest
+     ports:
+       - "9086:80"
