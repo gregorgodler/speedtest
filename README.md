@@ -13,3 +13,5 @@ Features:
 - Telemetry (optional)
 - Results sharing (optional)
 - Multiple Points of Test (optional)
+
+You can use my docker compose file or check at https://hub.docker.com/r/adolfintel/speedtest.
